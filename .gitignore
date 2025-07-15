@@ -1,0 +1,5 @@
+# Ignorar todos los node_modules del proyecto
+**/node_modules/
+
+# Ignorar archivos .env en cualquier subcarpeta
+**/.env
